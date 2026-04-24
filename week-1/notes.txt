@@ -1,0 +1,5 @@
+1. ls - Lists files and directories in the current folder
+2. cd - Changes the current directory
+3. mkdir - Creates a new directory
+4. touch - Creates a new file
+5. cat - Displays the contents of a file
